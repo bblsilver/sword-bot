@@ -1,0 +1,10 @@
+{
+  "name": "sword-bot",
+  "version": "1.0.0",
+  "description": "Conflict of Nations Bot",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.5"
+  }
+}   
