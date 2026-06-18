@@ -4,7 +4,7 @@
 
 **Sword** is a utility bot tailored to Conflict of Nations. It automates match setup, tracks player countries, manages permissions via dynamic roles, and records persistent win/loss statistics.
 
-## Features
+## Features 
 
 - **Match Creation**: Automatically creates a private text channel and a unique role for each match ID. 
 - **Country Management**: Players can register their chosen country; hosts can view a full country list.
