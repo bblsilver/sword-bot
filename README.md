@@ -6,10 +6,10 @@
 
 ## Features 
 
-- **Match Creation**: Automatically creates a private text channel and a unique role for each match ID. 
+- **Match Creation**: Create a match and automatically tailor custom channels & roles for the match.
 - **Country Management**: Players can register their chosen country; hosts can view a full country list.
 - **Player Management**: Hosts can add/remove players and transfer ownership.
-- **Player Stats**: Tracks wins, losses, and draws in a local database (`database.json`). Win rates are calculated automatically.
+- **Player Stats**: Tracks all player statistics including wins, losses, and draws in a local database (`database.json`). Win rates are calculated automatically.
 
 ## Commands
 
