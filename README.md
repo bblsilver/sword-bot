@@ -26,10 +26,3 @@
 | `/match leave` | Removes yourself from the match. | Players |
 | `/match close` | Ends the match, archives the channel, and saves stats. | Host |
 | `/match stats` | View a player's total wins, losses, and win rate. | Everyone |
-
-## Setup & Installation
-
-### Prerequisites
-- Node.js v16.9.0 or higher
-- A Discord Bot Token
-- A Discord Server ID 
