@@ -1,6 +1,7 @@
 # ⚔️ Sword - Discord Bot
 
-🛠️ WORK IN PROGRESS
+> [!WARNING]
+> Please note that **Sword Bot** is still a work in progress.
 
 **Sword** is a utility bot tailored to Conflict of Nations. It automates match setup, tracks player countries, manages permissions via dynamic roles, and records persistent win/loss statistics.
 
